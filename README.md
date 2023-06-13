@@ -1,16 +1,4 @@
-# todoapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# :arrow_forward: OUTPUT 
+<p float="left">
+  <img width="300" alt="image" src="https://github.com/SandyVR46/todo--keeper/assets/41688158/ec84e199-48dc-4b56-8582-efbfbed4589d">
+</p>
